@@ -61,6 +61,9 @@ Alice - I love the weather today (5 minutes ago)
 Commands:
 =========
 o posting: <user name> -> <message>
+
 o reading: <user name>
+
 o following: <user name> follows <another user>
+
 o wall: <user name> wall
