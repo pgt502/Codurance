@@ -3,6 +3,14 @@ Simple console-based social networking application created as a coding exercise
 
 Developed using Test Driven Development
 
+Instructions:
+=============
+Logic is the project where all logic is.
+Test is a test harness (MSTest) for the Logic project.
+Client is a console application which runs the code in the Logic project.
+
+To run this application make Client as the start-up project.
+
 Usages and scenarios:
 =====================
 Posting: Alice can publish messages to a personal timeline
