@@ -6,7 +6,7 @@ Developed using Test Driven Development
 Instructions:
 =============
 Logic is the project where all logic is.
-Test is a test harness (MSTest) for the Logic project.
+Test is a test harness (MSTest) for the Logic project. Unit tests focus on good scenarios only.
 Client is a console application which runs the code in the Logic project.
 
 To run this application make Client as the start-up project.
